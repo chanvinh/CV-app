@@ -95,7 +95,7 @@ Software Developer
 
 ### Experience
 
-4+ years of experience in Frontend and Full Stack Development.
+4+ years of experience in Frontend and Software Development.
 
 ### Main Technologies
 

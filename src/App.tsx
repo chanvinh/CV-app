@@ -14,8 +14,7 @@ function App() {
         <div className="background"></div>
         <Flex>
           <Typography>Ung Chan Vinh</Typography>
-          <Typography type="level2">FULL STACK DEVELOPER (React.js | Next.js | TypeScript |
-            ASP.NET Core | Laravel)</Typography>
+          <Typography type="level2">SOFTWARE DEVELOPER (React.js | Next.js | TypeScript)</Typography>
           <ListBox label="Phone:" margin="8px 0px">
             <Typography type="level4" padding="3px 20px 0px 0px">
               0703337127
@@ -41,7 +40,7 @@ function App() {
 
       <Section title="PROFESSIONAL SUMMARY">
         <Typography type="level4" padding="5px 20px 0px">
-          Full Stack Developer with 4+ years of experience building enterprise web applications, with strong expertise in frontend development using <b>React.js, Next.js, TypeScript, and JavaScript</b>.
+          Software Developer with 4+ years of experience building enterprise web applications, with strong expertise in frontend development using <b>React.js, Next.js, TypeScript, and JavaScript</b>.
           Experienced in developing scalable UI architectures, state management, API integration, automated testing, and backend services using ASP.NET Core and PHP Laravel.
           Worked across banking, education, healthcare, financial information, and business management systems, collaborating with cross-functional teams and clients to deliver production-ready solutions.
         </Typography>
