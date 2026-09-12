@@ -40,7 +40,7 @@ function App() {
 
       <Section title="PROFESSIONAL SUMMARY">
         <Typography type="level4" padding="5px 20px 0px">
-          Software Developer with 4+ years of experience building enterprise web applications, with strong expertise in frontend development using <b>React.js, Next.js, TypeScript, and JavaScript</b>.
+          Software Developer with 4+ years of experience building enterprise web applications, with strong expertise in <b>React.js, Next.js, TypeScript</b>, and <b>UI Design Systems</b>. Proven track record in optimizing Core Web Vitals, developing accessible UIs, component-driven development with Storybook, and designing effective Information Architecture.
           Experienced in developing scalable UI architectures, state management, API integration, automated testing, and backend services using ASP.NET Core and PHP Laravel.
           Worked across banking, education, healthcare, financial information, and business management systems, collaborating with cross-functional teams and clients to deliver production-ready solutions.
         </Typography>
@@ -95,8 +95,16 @@ function App() {
           <Typography type="level3">UI & Forms:</Typography>
           <Flex>
             <Typography type="level4" padding="3px 20px 0px 0px">
-              Tailwind CSS, Material UI, Bootstrap, React Hook Form,
-              Formik, Yup
+              Tailwind CSS, Material UI, Bootstrap, React Hook Form, Formik, Yup, Storybook, Web Accessibility
+            </Typography>
+          </Flex>
+        </Grid>
+        <Sperator />
+        <Grid row>
+          <Typography type="level3">Frontend Performance & Architecture:</Typography>
+          <Flex>
+            <Typography type="level4" padding="3px 20px 0px 0px">
+              Core Web Vitals Optimization, Information Architecture, Responsive Web Design
             </Typography>
           </Flex>
         </Grid>
@@ -155,7 +163,7 @@ function App() {
               <b>May 2022 – September 2024 | Team Size: 15</b>
             </Typography>
             <Typography type="level4" padding="3px 20px 0px 0px">
-              <b>Tech stack:</b> TypeScript, Next.js, React.js, Redux Saga, Styled Components, i18n, Jest.
+              <b>Tech stack:</b> TypeScript, Next.js, React.js, Redux Saga, Styled Components, i18n, Jest, Storybook.
             </Typography>
             <Typography type="level4" padding="3px 20px 0px 0px">
               <ul>
